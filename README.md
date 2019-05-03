@@ -1,5 +1,5 @@
 # README
-WS 
+AWS 
 
 ssh -i (Path_to .pem) ec2-user@(Public IP)
 
