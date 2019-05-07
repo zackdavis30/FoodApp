@@ -22,6 +22,7 @@ which git
 git clone (github clone url goes here)
 
 // C complier
+
 sudo yum install gcc
 
 //RVM **go to https://rvm.io/**
