@@ -68,6 +68,11 @@ bin/rails db:migrate RAILS_ENV=development
 
 rails server -b 0.0.0.0
 
+// make some adjustments in routes.rb
+
+roots 'foods#index' // then set it using >>> bins/rails routes
+
+
 Notes:
 
 ls -laF
